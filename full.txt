@@ -1,5 +1,5 @@
 # Главная и верхние разделы
-/alefmex.ru https://fabrikaalef.ru/;
+/ https://fabrikaalef.ru/;
 /collections/zhenshchinam/ https://fabrikaalef.ru/;
 /collections/zhenshchinam/tekstil/ https://fabrikaalef.ru/;
 /collections/zhenshchinam/izdeliya_iz_kozhi/ https://fabrikaalef.ru/;
